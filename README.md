@@ -12,4 +12,9 @@ Créer une application basée sur une architecture micro-service qui permet de g
 8.Déployer le serveur keycloak :
 -Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token
 
-image!(
+![image](https://github.com/benseddik1/Controle5IIR/tree/main/img)
+
+![image](https://github.com/benseddik1/Controle5IIR/blob/main/img/2.png)
+
+![image](https://github.com/benseddik1/Controle5IIR/blob/main/img/3.png)
+
